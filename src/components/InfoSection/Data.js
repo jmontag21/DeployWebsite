@@ -7,7 +7,7 @@ export const homeObjOne = {
   headline: 'Who am I?',
   description:
     'Email: Jmontag1@pride.hofstra.edu',
-    d2: 'My name is Jonathan Montag, I grew up in Syosset, New York and I have been coding since I was a senior in high school.  I am currently a senior at Hofstra University and will be graduating in May of 2021 with a Bachelor of Science.',
+    d2: 'My name is Jonathan Montag, I grew up in Syosset, New York and I have been coding since I was a senior in high school.  I am currently a senior at Hofstra University and will be graduating in May of 2021 with a Bachelor Of Science in Computer Science.',
     d3: 'I really enjoy learning about AI/ML and then applying those techniques I learned to efficiently solve real world problems.  Asides from computer science, I have a strong passion for physics, specifically black hole research and other new findings about space phenomenon.',
     d4: 'Hobbies: Coding projects with friends, Snowboarding, Football, Lacrosse ',
     buttonLabel: 'Technologies',
